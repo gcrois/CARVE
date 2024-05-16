@@ -1,8 +1,7 @@
-
 title: CARVE
 description: "Cade Andgreg's RISC-V Emulator"
-baseurl: ""
-url: "https://carve.cade.site"
+baseurl: "/CARVE"
+url: "https://gcrois.github.io/CARVE/"
 
 permalink: pretty
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock"]
